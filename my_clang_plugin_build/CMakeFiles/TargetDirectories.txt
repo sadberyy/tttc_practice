@@ -1,0 +1,7 @@
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/intrinsics_gen.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/omp_gen.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/acc_gen.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/clang-tablegen-targets.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/RenamePrefixPlugin.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/edit_cache.dir
+/home/sadberyy/tttc_practice/my_clang_plugin_build/CMakeFiles/rebuild_cache.dir
